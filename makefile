@@ -1,2 +1,2 @@
 all:
-	gcc -O2 -o Salut 33.cpp
+	gcc -O2 -o Source.cpp
